@@ -1,0 +1,32 @@
+
+Idea:Formal idea name, commercial name if exists
+description:what the app does (not how)
+
+group members:
+name1
+name2
+name3
+
+Features: Features List 
+
+
+Technical Description:
+
+Technologies:
+-File IO
+-Collections
+-Threading
+-Exception Handling
+-Streams
+
+Memory:
+-Primitives (no of variables-global - local)
+-Data Structures (arrays-lists-hasmaps)
+
+Loops: no of loops
+
+Decision Points (number of Branches):
+
+Modules:classes and methods (key classes and methods and packages if exists)
+
+screenshots: user flow (better to be a video) - code samples - use case diagram - class diagram 

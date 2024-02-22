@@ -1,0 +1,13 @@
+Bank Entry System
+
+Account Holder: hany nemr
+Account:12345678
+balance:2000
+
+Account Holder: yehya momtaz
+Account:11223345
+balance:1000
+
+
+
+Account Holder: exit
